@@ -1,4 +1,5 @@
 #!/usr/bin/env python
+
 '''bones_practiques. Demana
 Institut Icària
 Programació - 1r Batxillerat - Curs 2023-24
