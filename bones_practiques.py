@@ -8,8 +8,8 @@ programa i el resultat esperat.
 __author__ = "Arnau Roca Silva"
 __email__ = "aroca@instituticaria.cat"
 __date__ = "2024/10/10"
-# Demanem valors enters per a divisor i dividend:
 
+# Demanem valors enters per a divisor i dividend:
 dividend = int(input("Introdueix el dividend: "))
 divisor = int(input("Introdueix el divisor: "))
 
